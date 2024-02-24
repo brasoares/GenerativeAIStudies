@@ -12,4 +12,4 @@ Contribute your insights, ask questions, and share your projects through pull re
 
 ## Notion Page 📝
 
-Don't forget to check out our [Notion page](https://www.notion.so/Engenharia-de-Software-Grupo-de-Estudos-de-IA-Generativa-20a73770bc6b4844bc7048fc111b70b3?pvs=4) for a detailed Table of Contents and links to study materials. Happy learning! 😊
+Don't forget to check out our [Notion page]([https://www.notion.so/Engenharia-de-Software-Grupo-de-Estudos-de-IA-Generativa-20a73770bc6b4844bc7048fc111b70b3?pvs=4](https://better-teller-d54.notion.site/Engenharia-de-Software-Grupo-de-Estudos-de-IA-Generativa-20a73770bc6b4844bc7048fc111b70b3)https://better-teller-d54.notion.site/Engenharia-de-Software-Grupo-de-Estudos-de-IA-Generativa-20a73770bc6b4844bc7048fc111b70b3) for a detailed Table of Contents and links to study materials. Happy learning! 😊
